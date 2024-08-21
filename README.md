@@ -25,7 +25,6 @@ Thank you for visiting, and I look forward to future collaborations!
 2. **Navigate to the project directory**:
    ````bash
    cd ICOCL
-   ```
 3. **Run the main Python script**:
   ```bash
 python Optimisation.py {directory_name} {want_to_regenerate_prediction_model} {iron_cast_name}
