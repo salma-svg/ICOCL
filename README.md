@@ -33,4 +33,4 @@ python Optimisation.py {directory_name} {want_to_regenerate_prediction_model} {i
 
 Navigate to the data directory, where you will find the results saved in the following formats: **`resultats_{nom_nuance}.xlsx`** and **`resultats_composition{nom_nuance}.xlsx`**.
 ### Note
-For more details on the results and the methodology, please visit the website linked in the overview.
+For more details on the code, the results and the methodology, please visit the website linked in the overview.
