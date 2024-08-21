@@ -13,7 +13,7 @@ Thank you for visiting, and I look forward to future collaborations!
 ## Technologies Used
 
 - **Python**: The primary programming language used for implementing the optimization models.
-- **Optimization Techniques**: Various optimization strategies, possibly including linear programming, non-linear programming, or heuristics.
+- **Optimization Techniques**: Various optimization strategies for linear programming.
 - **Operations Research**: Application of operations research methods to solve complex industrial problems.
 
 ## How to Use This Repository
