@@ -63,7 +63,7 @@ def adjust_constraints(compo_chimique, model, target, initial_guess, bounds):
         warnings.simplefilter("always")
         """ Fonction pour ajuster les contraintes en fonction des prédictions """
         result = minimize(objective_function, initial_guess, args=(compo_chimique,model, target),
-                            method='COBYQA', tol=1, bounds=bounds)
+                            method='L-BFGS-B', tol=1, bounds=bounds)
         for warning in w:
             if issubclass(warning.category, OptimizeWarning):
                 if "Initial guess is not within the specified bounds" in str(warning.message):
