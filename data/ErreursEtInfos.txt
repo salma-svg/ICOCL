@@ -1,2 +1,0 @@
-Pour la recette GS 400-15:
-Résultats exportés avec succes dans data/resultats_GS 400-15.xlsx et data/resultats_compositionGS 400-15.xlsx
